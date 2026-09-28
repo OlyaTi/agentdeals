@@ -35722,6 +35722,21 @@
       "verifiedDate": "2026-09-27"
     },
     {
+      "vendor": "Mnemoverse",
+      "category": "AI / ML",
+      "description": "Hosted memory for AI agents over MCP and a REST API. The Free plan needs no credit card: 1,000 queries a day, 10,000 stored memories, 60 requests a minute, full API access (write, read, feedback, stats) and the MCP server. Pro is $29/month for 50,000 queries a day and 500,000 stored memories; Team is $149/month for 500,000 queries a day and team management. The MCP server is open source (MIT); the memory engine is a hosted service.",
+      "tier": "Free",
+      "url": "https://mnemoverse.com/pricing",
+      "tags": [
+        "ai",
+        "agents",
+        "memory",
+        "mcp",
+        "free tier"
+      ],
+      "verifiedDate": "2026-09-28"
+    },
+    {
       "vendor": "Serper",
       "category": "AI / ML",
       "description": "Google Search API returning real-time results. 2,500 free queries when you sign up, no credit card required; a plain search uses one credit, and Maps and Lens searches use 3. No Serper page says the free queries renew or expire, and the terms bar registering more than one account. Serper stops accepting queries when the balance reaches zero. Paid credits are prepaid packs with no subscription: Starter is $50 for 50,000 queries ($1.00 per 1,000) at 50 queries per second, valid for 6 months; the largest pack falls to $0.30 per 1,000.",
